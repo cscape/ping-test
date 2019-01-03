@@ -1,0 +1,11 @@
+{
+  "name": "pingtest",
+  "version": "1.4.6",
+  "description": "Display ping and jitter counts in realtime on the command line to any host.",
+  "main": "ping.js",
+  "scripts": {
+    "start": "node ping.js"
+  },
+  "author": "Cyberscape <info@cyberscape.co>",
+  "license": "MIT"
+}
